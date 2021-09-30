@@ -1,0 +1,15 @@
+.category > div > div {
+    background-color: black;
+    margin: 15px;
+    padding: 15px;
+    border: 3px solid gray;
+}
+
+.category a {
+    text-decoration: none;
+    color: white;
+}
+
+.category a:hover {
+    color: gold;
+}

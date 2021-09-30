@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: center;
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
+}
+
+.rightMenu {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid gray;
+    margin: 15px;
+    padding: 15px;
+}

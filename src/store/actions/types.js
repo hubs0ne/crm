@@ -1,0 +1,1 @@
+export const position_add_action = 'POSITION_ADD_ACTION'
